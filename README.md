@@ -451,5 +451,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ---
 
 <p align="center">
-  <sub>© 2026 <a href="https://github.com/0xtorexe"><strong>0xtorexe</strong></a> — Built with ❤️ using React, Express & MySQL</sub>
+  <sub>© 2026 <a href="https://github.com/0xtorexe"><strong>0xtorexe</strong></a> using React, Express & MySQL</sub>
 </p>
