@@ -5,13 +5,15 @@
   <img src="https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL 8" />
   <img src="https://img.shields.io/badge/Socket.io-4-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.io" />
   <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Made_by-0xtorexe-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Made by 0xtorexe" />
 </p>
 
 <h1 align="center">🛡️ BugShield Pro</h1>
 
 <p align="center">
   <strong>Enterprise-Grade Bug Tracking & Project Management</strong><br/>
-  Role-based access · Real-time notifications · Enforced bug lifecycle · Analytics dashboards
+  Role-based access · Real-time notifications · Enforced bug lifecycle · Analytics dashboards<br/><br/>
+  <sub>Designed & developed by <a href="https://github.com/0xtorexe"><strong>@0xtorexe</strong></a></sub>
 </p>
 
 <p align="center">
@@ -449,5 +451,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ---
 
 <p align="center">
-  Built with ❤️ using React, Express & MySQL
+  <sub>© 2026 <a href="https://github.com/0xtorexe"><strong>0xtorexe</strong></a> — Built with ❤️ using React, Express & MySQL</sub>
 </p>
